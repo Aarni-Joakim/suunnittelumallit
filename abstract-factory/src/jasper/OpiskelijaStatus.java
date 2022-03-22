@@ -1,3 +1,5 @@
+package jasper;
+
 public enum OpiskelijaStatus {
     OPISKELEE("adidasTehdas"),
     VALMISTUNUT("bossTehdas");

@@ -1,3 +1,4 @@
+package jasper;
 
 import abstractFactory.AbstraktiVaateTehdas;
 import adidasTehdas.AdidasTehdas;
